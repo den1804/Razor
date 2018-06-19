@@ -1,0 +1,19 @@
+﻿@model Product[]
+@{
+    ViewBag.Title = "Views with array";
+}
+<table>
+    <thead>
+        <tr><th>№</th><th>Name</th><th>Price</th></tr>
+    </thead>
+    <tbody>
+        @foreach (Product product in Model)
+        {
+            <tr>
+                <td>@product.ProductID</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>

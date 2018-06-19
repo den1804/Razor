@@ -9,3 +9,14 @@ C:\Users\Denis\source\repos\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.AssemblyIn
 C:\Users\Denis\source\repos\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.AssemblyInfo.cs
 C:\Users\Denis\source\repos\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.dll
 C:\Users\Denis\source\repos\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.pdb
+C:\DRIVE D\Development\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.deps.json
+C:\DRIVE D\Development\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.runtimeconfig.json
+C:\DRIVE D\Development\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.runtimeconfig.dev.json
+C:\DRIVE D\Development\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.dll
+C:\DRIVE D\Development\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.pdb
+C:\DRIVE D\Development\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.csprojResolveAssemblyReference.cache
+C:\DRIVE D\Development\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.csproj.CoreCompileInputs.cache
+C:\DRIVE D\Development\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.AssemblyInfoInputs.cache
+C:\DRIVE D\Development\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.AssemblyInfo.cs
+C:\DRIVE D\Development\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.dll
+C:\DRIVE D\Development\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.pdb
